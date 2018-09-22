@@ -1,11 +1,16 @@
 _repo: Der-Weg-ohne-Heimkehr-Ein-Martyrium-in-Briefen_55371
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55371-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Wegner, Armin T.
     gutenberg_agent_id: '48307'
     url: http://www.gutenberg.org/2009/agents/48307
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55371#Der-Weg-ohne-Heimkehr-Ein-Martyrium-in-Briefen
 gutenberg_issued: '2017-08-16'
 gutenberg_type: Text
 identifiers:
